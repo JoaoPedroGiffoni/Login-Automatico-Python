@@ -8,7 +8,7 @@ navegador = webdriver.Chrome(service=servico)
 
 navegador.get("https://www.facebook.com/marketplace/create/item")
 
-navegador.find_element('xpath','//*[@id="email"]').send_keys("Lira")
-navegador.find_element('xpath','//*[@id="pass"]').send_keys("pythonimpressionador@gmail.com")
+navegador.find_element('xpath','//*[@id="email"]').send_keys("SEU_EMAIL_AQUI@email.com")
+navegador.find_element('xpath','//*[@id="pass"]').send_keys("SUA SENHA AQUI")
 
 navegador.find_element('xpath', '//*[@id="loginbutton"]').click()
