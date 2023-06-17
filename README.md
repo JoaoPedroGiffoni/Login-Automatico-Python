@@ -3,7 +3,7 @@
 Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.
 
 ## Pré-requisitos
-- Python 3.x
+- Python
 - Biblioteca Selenium
 - Navegador Chrome
 
