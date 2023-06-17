@@ -1,4 +1,4 @@
-# Automação do Facebook Marketplace com Selenium
+# Automação de login com Selenium
 
 Este repositório contém um script em Python que automatiza o processo de login usando Selenium e ChromeDriver.
 
