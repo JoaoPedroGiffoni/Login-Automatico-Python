@@ -11,10 +11,7 @@ Este repositório contém um script em Python que automatiza o processo de login
 
 1. Clone o repositório:
 
-   ```
-   git clone https://github.com/seu-nome-de-usuario/seu-repositorio.git
-   ```
-
+   
 2. Instale as dependências necessárias usando o pip:
 
    ```
